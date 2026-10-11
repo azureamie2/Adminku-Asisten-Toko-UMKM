@@ -4,8 +4,6 @@ AdminKu adalah asisten admin berbasis AI untuk pemilik toko online skala kecil. 
 
 Studi kasus: **Dapur Bu Rina**, toko camilan dan kue kering (data contoh fiktif).
 
-Dibuat untuk Hackathon Hacktiv8 | Tema: **Productivity & Smart Business**
-
 ---
 
 ## Masalah
@@ -35,7 +33,7 @@ Pemilik toko
     │  (mengetik permintaan)
     ▼
 Antarmuka web (index.html)
-    │  POST /api/v1/run/{flow_id}
+    │
     ▼
 IBM Langflow ── Agent AdminKu
     ├── Tool Astra DB       → katalog & FAQ (RAG)
@@ -128,7 +126,3 @@ Berkurangnya pekerjaan admin manual: membalas pertanyaan pelanggan, menulis capt
 - Jangan commit API key, token Astra DB, atau kredensial lain ke repositori.
 - Periksa file flow `.json` sebelum dipublikasikan agar tidak memuat token atau rahasia lain.
 - Agent hanya memiliki akses baca ke Google Sheets.
-
-## Teknologi
-
-IBM Langflow · IBM Bob · Astra DB (DataStax) · Google Generative AI Embeddings · Composio (Google Sheets) · HTML, CSS, JavaScript
