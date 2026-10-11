@@ -2,8 +2,6 @@
 
 AdminKu adalah asisten admin berbasis AI untuk pemilik toko online skala kecil. Dalam satu antarmuka, pemilik toko bisa mendapat **draf balasan pelanggan**, **caption produk**, dan **rekap penjualan**, ditambah kalkulator pesanan.
 
-Studi kasus: **Dapur Bu Rina**, toko camilan dan kue kering (data contoh fiktif).
-
 ---
 
 ## Masalah
