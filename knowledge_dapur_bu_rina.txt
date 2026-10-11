@@ -1,0 +1,50 @@
+BASIS PENGETAHUAN TOKO DAPUR BU RINA (DATA CONTOH FIKTIF)
+
+BAGIAN 1 - KATALOG PRODUK
+
+Produk: Nastar Keju. Kemasan: Toples 500 gr. Harga: Rp85.000. Bahan: Tepung, mentega, selai nanas, keju. Catatan: Tahan 1 bulan.
+
+Produk: Kastengel. Kemasan: Toples 500 gr. Harga: Rp90.000. Bahan: Tepung, keju edam, mentega. Catatan: Tahan 1 bulan.
+
+Produk: Putri Salju. Kemasan: Toples 400 gr. Harga: Rp70.000. Bahan: Tepung, mentega, gula halus. Catatan: Tahan 1 bulan.
+
+Produk: Lidah Kucing. Kemasan: Toples 300 gr. Harga: Rp65.000. Bahan: Tepung, telur, mentega. Catatan: Tahan 3 minggu.
+
+Produk: Keripik Pisang Coklat. Kemasan: Kemasan 250 gr. Harga: Rp35.000. Bahan: Pisang, coklat. Catatan: Tahan 2 bulan.
+
+Produk: Keripik Singkong Balado. Kemasan: Kemasan 250 gr. Harga: Rp28.000. Bahan: Singkong, cabai, gula. Catatan: Tahan 2 bulan.
+
+Produk: Basreng Pedas. Kemasan: Kemasan 200 gr. Harga: Rp30.000. Bahan: Bakso ikan, cabai, daun jeruk. Catatan: Tahan 1 bulan.
+
+Produk: Sambal Roa. Kemasan: Botol 150 gr. Harga: Rp45.000. Bahan: Ikan roa, cabai, bawang. Catatan: Tahan 2 bulan.
+
+Produk: Brownies Kering. Kemasan: Kemasan 200 gr. Harga: Rp40.000. Bahan: Coklat, tepung, telur. Catatan: Tahan 3 minggu.
+
+Produk: Kue Bawang. Kemasan: Kemasan 250 gr. Harga: Rp32.000. Bahan: Tepung, bawang putih, telur. Catatan: Tahan 1 bulan.
+
+Produk: Paket Hampers Lebaran. Kemasan: 1 box (3 toples). Harga: Rp225.000. Bahan: Nastar, kastengel, putri salju. Catatan: Pre-order 3 hari.
+
+Produk: Granola Madu. Kemasan: Kemasan 300 gr. Harga: Rp55.000. Bahan: Oat, madu, kacang, kismis. Catatan: Tahan 2 bulan.
+
+
+BAGIAN 2 - FAQ DAN KEBIJAKAN TOKO
+
+Jam operasional: Senin-Sabtu pukul 08.00-17.00 WIB. Minggu libur. Pesanan di luar jam dibalas pada hari kerja berikutnya.
+
+Cara pemesanan: pesan lewat WhatsApp toko atau marketplace dengan menyebut nama produk, jumlah, dan alamat pengiriman. Pesanan diproses setelah pembayaran diterima.
+
+Metode pembayaran: transfer bank BCA dan BRI, QRIS, dan e-wallet. Belum menerima bayar di tempat (COD).
+
+Pengiriman: dikirim dari Bandung memakai JNE dan J&T. Pesanan sebelum pukul 14.00 dikirim di hari yang sama. Ongkir mengikuti tarif kurir sesuai alamat tujuan.
+
+Estimasi sampai: Jawa Barat 1-2 hari, Pulau Jawa lainnya 2-3 hari, luar Jawa 3-6 hari.
+
+Pemesanan dalam jumlah banyak (grosir): pembelian 10 toples atau lebih mendapat diskon 10 persen. Untuk hampers, pesan minimal 3 hari sebelumnya.
+
+Kebijakan retur: barang rusak atau tidak sesuai dapat diganti jika pembeli mengirim foto dan video unboxing maksimal 1x24 jam setelah barang diterima. Tidak ada retur karena berubah pikiran.
+
+Kadaluarsa dan penyimpanan: simpan di tempat kering dan tertutup rapat. Masa simpan tertera di katalog per produk.
+
+Halal dan bahan: bahan utama tercantum di katalog. Toko belum memiliki sertifikat halal resmi. Produk tidak mengandung babi atau alkohol.
+
+Alergen: beberapa produk mengandung telur, susu, kacang, atau gluten. Pembeli dengan alergi diminta bertanya dulu.
